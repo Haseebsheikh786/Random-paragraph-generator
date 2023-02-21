@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.row div {
+    margin: 30px 7px;
+    font-size: 1.5rem;
+}
+
+input {
+    font-size: 1rem;
+    padding: 2px;
+    width: 70px;
+}
+
+#btn {
+    color: white;
+    background-color: rgb(15, 15, 235);
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
